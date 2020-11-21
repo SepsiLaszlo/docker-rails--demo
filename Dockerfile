@@ -25,8 +25,3 @@ COPY Rakefile Rakefile
 RUN rails assets:precompile
 
 COPY . .
-
-
-
-
-
